@@ -1,0 +1,85 @@
+Project Status Report 
+
+Team Members: Keziah Nsoh, Samson Njogu, Mohamed Dahni 
+Project Start Date: August 23, 2024, 6:00 AM 
+Project End Date: August 30, 2024, 6:00 AM 
+
+ShapeShape[Text Wrapping Break] 
+
+2. Challenges 
+
+Technical Challenges: 
+
+Challenge 1: Integration Issues 
+
+Description: Integrating the front-end with the back-end APIs has proven to be more complex than anticipated, particularly with managing state and ensuring consistent data flow. 
+
+Adaptation: We are revising our API endpoints to better match the needs of the front-end and are implementing more rigorous testing to catch issues early. 
+
+Challenge 2: Database Schema Design 
+
+Description: Designing a robust database schema that supports our application’s requirements has required more iterations than expected. 
+
+Adaptation: We have adjusted our schema to include additional tables and relationships to better manage user and resource data. 
+
+Non-Technical Challenges: 
+
+Challenge 1: Coordination of Team Schedules 
+
+Description: Aligning team members' schedules for meetings and collaborative work sessions has been challenging due to varying availability. 
+
+Adaptation: We’ve implemented more structured check-ins and adjusted our work hours to overlap more effectively. 
+
+Shape 
+
+3. Collaboration/Communication 
+
+Team Collaboration: 
+
+Successes: 
+
+Clear Task Allocation: Each team member has clearly defined responsibilities, which has helped streamline our workflow. 
+
+Regular Check-ins: Daily stand-up meetings have improved communication and allowed us to quickly address issues as they arise. 
+
+Challenges: 
+
+Collaboration Tools: Initially, using multiple tools for communication (Slack, Google Docs, etc.) caused some confusion. 
+
+Adaptation: We have consolidated our communication to a single platform and established clearer guidelines for updates and task tracking. 
+
+Collaboration with Peers/Mentors: 
+
+Peer Feedback: We’ve received useful feedback from other teams during the PLD check-ins, which has highlighted areas for improvement in our implementation. 
+
+Mentor Guidance: Our mentor provided valuable insights into optimizing our API design and handling error management, which we have incorporated into our plan. 
+
+Shape 
+
+4. Project Updates 
+
+Changes to Deliverables: 
+
+Change 1: Revised API Endpoints 
+
+Reasoning: Based on initial integration testing, we found that some API endpoints needed to be adjusted to better fit the front-end requirements. 
+
+Change 2: Enhanced Error Handling 
+
+Reasoning: Added more comprehensive error handling to improve the user experience and make debugging easier. 
+
+Shape 
+
+5. Progress 
+
+Progress Rating: 6/10 
+
+Measurement: 
+
+Tasks Completed: We have successfully set up the basic infrastructure for both the front-end and back-end and made significant progress on core functionalities such as user authentication and resource management. 
+
+Pending Tasks: Integration, extensive testing, and finalizing UI/UX components are ongoing. 
+
+Assessment: 
+
+On Track: We are on track to complete the project by the deadline, but we need to address some integration and testing challenges to ensure that all components work seamlessly together. 
